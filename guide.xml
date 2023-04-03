@@ -35,6 +35,10 @@
     <icon src="http://www.movistarplus.es/recorte/m-NEOCOL/ficha/RESIST.png" />
     <url>http://www.movistarplus.es</url>
   </channel>
+  <channel id="La Resistencia HD">
+    <display-name lang="es">La Resistencia HD</display-name>
+    <url>http://www.movistarplus.es</url>
+  </channel>
   <programme start="20230403060000 +0200" stop="20230403070000 +0200" channel="LA 1 FHD">
     <title lang="es">Noticias 24H</title>
   </programme>
@@ -543,6 +547,75 @@
     <title lang="es">La Resistencia: Raúl Cimas</title>
   </programme>
   <programme start="20230404052500 +0200" stop="20230404063600 +0200" channel="La Resistencia">
+    <title lang="es">La Resistencia: Dani Martín</title>
+  </programme>
+  <programme start="20230403050700 +0200" stop="20230403062800 +0200" channel="La Resistencia HD">
+    <title lang="es">La Resistencia: Berto Romero / Alex Roca</title>
+  </programme>
+  <programme start="20230403062800 +0200" stop="20230403074400 +0200" channel="La Resistencia HD">
+    <title lang="es">La Resistencia: Ana Mena</title>
+  </programme>
+  <programme start="20230403074400 +0200" stop="20230403075000 +0200" channel="La Resistencia HD">
+    <title lang="es">Selección Atapuerca: La Resistencia: Jorge Ponce - "Se enfada con unos muñecos" - 21.01.21</title>
+  </programme>
+  <programme start="20230403075000 +0200" stop="20230403092000 +0200" channel="La Resistencia HD">
+    <title lang="es">La Resistencia: Quevedo</title>
+  </programme>
+  <programme start="20230403092000 +0200" stop="20230403103800 +0200" channel="La Resistencia HD">
+    <title lang="es">La Resistencia: Karra Elejalde</title>
+  </programme>
+  <programme start="20230403103800 +0200" stop="20230403115100 +0200" channel="La Resistencia HD">
+    <title lang="es">La Resistencia: Miki Nadal y Juanma Castaño</title>
+  </programme>
+  <programme start="20230403115100 +0200" stop="20230403125200 +0200" channel="La Resistencia HD">
+    <title lang="es">La Resistencia: Ernesto Sevilla</title>
+  </programme>
+  <programme start="20230403125200 +0200" stop="20230403135200 +0200" channel="La Resistencia HD">
+    <title lang="es">La Resistencia: Ester Expósito</title>
+  </programme>
+  <programme start="20230403135200 +0200" stop="20230403145500 +0200" channel="La Resistencia HD">
+    <title lang="es">La Resistencia: Leticia Dolera</title>
+  </programme>
+  <programme start="20230403145500 +0200" stop="20230403154900 +0200" channel="La Resistencia HD">
+    <title lang="es">La Resistencia: Lolita</title>
+  </programme>
+  <programme start="20230403154900 +0200" stop="20230403165200 +0200" channel="La Resistencia HD">
+    <title lang="es">La Resistencia: Raúl Cimas</title>
+  </programme>
+  <programme start="20230403165200 +0200" stop="20230403175200 +0200" channel="La Resistencia HD">
+    <title lang="es">La Resistencia: Nathy Peluso</title>
+  </programme>
+  <programme start="20230403175200 +0200" stop="20230403190300 +0200" channel="La Resistencia HD">
+    <title lang="es">La Resistencia: Dani Martín</title>
+  </programme>
+  <programme start="20230403190300 +0200" stop="20230403202500 +0200" channel="La Resistencia HD">
+    <title lang="es">La Resistencia: Belén Esteban</title>
+  </programme>
+  <programme start="20230403202500 +0200" stop="20230403215500 +0200" channel="La Resistencia HD">
+    <title lang="es">La Resistencia: Quevedo</title>
+  </programme>
+  <programme start="20230403215500 +0200" stop="20230403231300 +0200" channel="La Resistencia HD">
+    <title lang="es">La Resistencia: Karra Elejalde</title>
+  </programme>
+  <programme start="20230403231300 +0200" stop="20230404002600 +0200" channel="La Resistencia HD">
+    <title lang="es">La Resistencia: Miki Nadal y Juanma Castaño</title>
+  </programme>
+  <programme start="20230404002600 +0200" stop="20230404012700 +0200" channel="La Resistencia HD">
+    <title lang="es">La Resistencia: Ernesto Sevilla</title>
+  </programme>
+  <programme start="20230404012700 +0200" stop="20230404022800 +0200" channel="La Resistencia HD">
+    <title lang="es">La Resistencia: Ester Expósito</title>
+  </programme>
+  <programme start="20230404022800 +0200" stop="20230404032900 +0200" channel="La Resistencia HD">
+    <title lang="es">La Resistencia: Leticia Dolera</title>
+  </programme>
+  <programme start="20230404032900 +0200" stop="20230404042200 +0200" channel="La Resistencia HD">
+    <title lang="es">La Resistencia: Lolita</title>
+  </programme>
+  <programme start="20230404042200 +0200" stop="20230404052500 +0200" channel="La Resistencia HD">
+    <title lang="es">La Resistencia: Raúl Cimas</title>
+  </programme>
+  <programme start="20230404052500 +0200" stop="20230404063600 +0200" channel="La Resistencia HD">
     <title lang="es">La Resistencia: Dani Martín</title>
   </programme>
 </tv>
