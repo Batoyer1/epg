@@ -1,125 +1,125 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.3.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
-  <channel id="La 1 HD">
-    <display-name lang="es">La 1 HD</display-name>
+  <channel id="LA 1 FHD">
+    <display-name lang="es">LA 1 FHD</display-name>
     <icon src="http://www.movistarplus.es/recorte/m-NEOCOL/ficha/TVE.png" />
     <url>http://www.movistarplus.es</url>
   </channel>
-  <programme start="20230403060000 +0200" stop="20230403070000 +0200" channel="La 1 HD">
+  <programme start="20230403060000 +0200" stop="20230403070000 +0200" channel="LA 1 FHD">
     <title lang="es">Noticias 24H</title>
   </programme>
-  <programme start="20230403070000 +0200" stop="20230403085000 +0200" channel="La 1 HD">
+  <programme start="20230403070000 +0200" stop="20230403085000 +0200" channel="LA 1 FHD">
     <title lang="es">Telediario Matinal</title>
   </programme>
-  <programme start="20230403085000 +0200" stop="20230403100000 +0200" channel="La 1 HD">
+  <programme start="20230403085000 +0200" stop="20230403100000 +0200" channel="LA 1 FHD">
     <title lang="es">La hora de La 1: La hora política</title>
   </programme>
-  <programme start="20230403100000 +0200" stop="20230403113000 +0200" channel="La 1 HD">
+  <programme start="20230403100000 +0200" stop="20230403113000 +0200" channel="LA 1 FHD">
     <title lang="es">La hora de La 1: La hora de la actualidad</title>
   </programme>
-  <programme start="20230403113000 +0200" stop="20230403140000 +0200" channel="La 1 HD">
+  <programme start="20230403113000 +0200" stop="20230403140000 +0200" channel="LA 1 FHD">
     <title lang="es">Hablando claro</title>
   </programme>
-  <programme start="20230403140000 +0200" stop="20230403141000 +0200" channel="La 1 HD">
+  <programme start="20230403140000 +0200" stop="20230403141000 +0200" channel="LA 1 FHD">
     <title lang="es">Informativo territorial</title>
   </programme>
-  <programme start="20230403141000 +0200" stop="20230403150000 +0200" channel="La 1 HD">
+  <programme start="20230403141000 +0200" stop="20230403150000 +0200" channel="LA 1 FHD">
     <title lang="es">Ahora o nunca</title>
   </programme>
-  <programme start="20230403150000 +0200" stop="20230403155000 +0200" channel="La 1 HD">
+  <programme start="20230403150000 +0200" stop="20230403155000 +0200" channel="LA 1 FHD">
     <title lang="es">Telediario 1</title>
   </programme>
-  <programme start="20230403155000 +0200" stop="20230403161500 +0200" channel="La 1 HD">
+  <programme start="20230403155000 +0200" stop="20230403161500 +0200" channel="LA 1 FHD">
     <title lang="es">Informativo territorial 2</title>
   </programme>
-  <programme start="20230403161500 +0200" stop="20230403163000 +0200" channel="La 1 HD">
+  <programme start="20230403161500 +0200" stop="20230403163000 +0200" channel="LA 1 FHD">
     <title lang="es">El tiempo</title>
   </programme>
-  <programme start="20230403163000 +0200" stop="20230403172500 +0200" channel="La 1 HD">
+  <programme start="20230403163000 +0200" stop="20230403172500 +0200" channel="LA 1 FHD">
     <title lang="es">La Promesa</title>
   </programme>
-  <programme start="20230403172500 +0200" stop="20230403182000 +0200" channel="La 1 HD">
+  <programme start="20230403172500 +0200" stop="20230403182000 +0200" channel="LA 1 FHD">
     <title lang="es">El Bazar de la Caridad</title>
   </programme>
-  <programme start="20230403182000 +0200" stop="20230403192000 +0200" channel="La 1 HD">
+  <programme start="20230403182000 +0200" stop="20230403192000 +0200" channel="LA 1 FHD">
     <title lang="es">El comodín de La 1</title>
   </programme>
-  <programme start="20230403192000 +0200" stop="20230403203000 +0200" channel="La 1 HD">
+  <programme start="20230403192000 +0200" stop="20230403203000 +0200" channel="LA 1 FHD">
     <title lang="es">El cazador</title>
   </programme>
-  <programme start="20230403203000 +0200" stop="20230403210000 +0200" channel="La 1 HD">
+  <programme start="20230403203000 +0200" stop="20230403210000 +0200" channel="LA 1 FHD">
     <title lang="es">Aquí la Tierra</title>
   </programme>
-  <programme start="20230403210000 +0200" stop="20230403220500 +0200" channel="La 1 HD">
+  <programme start="20230403210000 +0200" stop="20230403220500 +0200" channel="LA 1 FHD">
     <title lang="es">Telediario 2</title>
   </programme>
-  <programme start="20230403220500 +0200" stop="20230404003000 +0200" channel="La 1 HD">
+  <programme start="20230403220500 +0200" stop="20230404003000 +0200" channel="LA 1 FHD">
     <title lang="es">MasterChef</title>
   </programme>
-  <programme start="20230404003000 +0200" stop="20230404012700 +0200" channel="La 1 HD">
+  <programme start="20230404003000 +0200" stop="20230404012700 +0200" channel="LA 1 FHD">
     <title lang="es">Comerse el mundo: Cabo verde</title>
   </programme>
-  <programme start="20230404012700 +0200" stop="20230404022500 +0200" channel="La 1 HD">
+  <programme start="20230404012700 +0200" stop="20230404022500 +0200" channel="LA 1 FHD">
     <title lang="es">Comerse el mundo: Argentina</title>
   </programme>
-  <programme start="20230404022500 +0200" stop="20230404042500 +0200" channel="La 1 HD">
+  <programme start="20230404022500 +0200" stop="20230404042500 +0200" channel="LA 1 FHD">
     <title lang="es">La noche en 24 horas</title>
   </programme>
-  <programme start="20230404042500 +0200" stop="20230404060000 +0200" channel="La 1 HD">
+  <programme start="20230404042500 +0200" stop="20230404060000 +0200" channel="LA 1 FHD">
     <title lang="es">Noticias 24H</title>
   </programme>
-  <programme start="20230404060000 +0200" stop="20230404080000 +0200" channel="La 1 HD">
+  <programme start="20230404060000 +0200" stop="20230404080000 +0200" channel="LA 1 FHD">
     <title lang="es">Telediario Matinal</title>
   </programme>
-  <programme start="20230404080000 +0200" stop="20230404094500 +0200" channel="La 1 HD">
+  <programme start="20230404080000 +0200" stop="20230404094500 +0200" channel="LA 1 FHD">
     <title lang="es">La hora de La 1: La hora política</title>
   </programme>
-  <programme start="20230404094500 +0200" stop="20230404113000 +0200" channel="La 1 HD">
+  <programme start="20230404094500 +0200" stop="20230404113000 +0200" channel="LA 1 FHD">
     <title lang="es">La hora de La 1: La hora de la actualidad</title>
   </programme>
-  <programme start="20230404113000 +0200" stop="20230404140000 +0200" channel="La 1 HD">
+  <programme start="20230404113000 +0200" stop="20230404140000 +0200" channel="LA 1 FHD">
     <title lang="es">Hablando claro</title>
   </programme>
-  <programme start="20230404140000 +0200" stop="20230404141000 +0200" channel="La 1 HD">
+  <programme start="20230404140000 +0200" stop="20230404141000 +0200" channel="LA 1 FHD">
     <title lang="es">Informativo territorial</title>
   </programme>
-  <programme start="20230404141000 +0200" stop="20230404150000 +0200" channel="La 1 HD">
+  <programme start="20230404141000 +0200" stop="20230404150000 +0200" channel="LA 1 FHD">
     <title lang="es">Ahora o nunca</title>
   </programme>
-  <programme start="20230404150000 +0200" stop="20230404155000 +0200" channel="La 1 HD">
+  <programme start="20230404150000 +0200" stop="20230404155000 +0200" channel="LA 1 FHD">
     <title lang="es">Telediario 1</title>
   </programme>
-  <programme start="20230404155000 +0200" stop="20230404161500 +0200" channel="La 1 HD">
+  <programme start="20230404155000 +0200" stop="20230404161500 +0200" channel="LA 1 FHD">
     <title lang="es">Informativo territorial 2</title>
   </programme>
-  <programme start="20230404161500 +0200" stop="20230404163000 +0200" channel="La 1 HD">
+  <programme start="20230404161500 +0200" stop="20230404163000 +0200" channel="LA 1 FHD">
     <title lang="es">El tiempo</title>
   </programme>
-  <programme start="20230404163000 +0200" stop="20230404172500 +0200" channel="La 1 HD">
+  <programme start="20230404163000 +0200" stop="20230404172500 +0200" channel="LA 1 FHD">
     <title lang="es">La Promesa</title>
   </programme>
-  <programme start="20230404172500 +0200" stop="20230404182500 +0200" channel="La 1 HD">
+  <programme start="20230404172500 +0200" stop="20230404182500 +0200" channel="LA 1 FHD">
     <title lang="es">El Bazar de la Caridad</title>
   </programme>
-  <programme start="20230404182500 +0200" stop="20230404192500 +0200" channel="La 1 HD">
+  <programme start="20230404182500 +0200" stop="20230404192500 +0200" channel="LA 1 FHD">
     <title lang="es">El comodín de La 1</title>
   </programme>
-  <programme start="20230404192500 +0200" stop="20230404203000 +0200" channel="La 1 HD">
+  <programme start="20230404192500 +0200" stop="20230404203000 +0200" channel="LA 1 FHD">
     <title lang="es">El cazador</title>
   </programme>
-  <programme start="20230404203000 +0200" stop="20230404210000 +0200" channel="La 1 HD">
+  <programme start="20230404203000 +0200" stop="20230404210000 +0200" channel="LA 1 FHD">
     <title lang="es">Aquí la Tierra</title>
   </programme>
-  <programme start="20230404210000 +0200" stop="20230404230000 +0200" channel="La 1 HD">
+  <programme start="20230404210000 +0200" stop="20230404230000 +0200" channel="LA 1 FHD">
     <title lang="es">Copa del Rey: Athletic - Osasuna</title>
   </programme>
-  <programme start="20230404230000 +0200" stop="20230405025000 +0200" channel="La 1 HD">
+  <programme start="20230404230000 +0200" stop="20230405025000 +0200" channel="LA 1 FHD">
     <title lang="es">Cine</title>
   </programme>
-  <programme start="20230405025000 +0200" stop="20230405045000 +0200" channel="La 1 HD">
+  <programme start="20230405025000 +0200" stop="20230405045000 +0200" channel="LA 1 FHD">
     <title lang="es">La noche en 24 horas</title>
   </programme>
-  <programme start="20230405045000 +0200" stop="20230405060000 +0200" channel="La 1 HD">
+  <programme start="20230405045000 +0200" stop="20230405060000 +0200" channel="LA 1 FHD">
     <title lang="es">Noticias 24H</title>
   </programme>
 </tv>
