@@ -5,6 +5,16 @@
     <icon src="http://www.movistarplus.es/recorte/m-NEOCOL/ficha/TVE.png" />
     <url>http://www.movistarplus.es</url>
   </channel>
+  <channel id="La 2 HD">
+    <display-name lang="es">La 2 HD</display-name>
+    <icon src="http://www.movistarplus.es/recorte/m-NEOCOL/ficha/LA2.png" />
+    <url>http://www.movistarplus.es</url>
+  </channel>
+  <channel id="ANTENA 3 FHD">
+    <display-name lang="es">ANTENA 3 FHD</display-name>
+    <icon src="http://www.movistarplus.es/recorte/m-NEOCOL/ficha/A3.png" />
+    <url>http://www.movistarplus.es</url>
+  </channel>
   <programme start="20230403060000 +0200" stop="20230403070000 +0200" channel="LA 1 FHD">
     <title lang="es">Noticias 24H</title>
   </programme>
@@ -121,5 +131,335 @@
   </programme>
   <programme start="20230405045000 +0200" stop="20230405060000 +0200" channel="LA 1 FHD">
     <title lang="es">Noticias 24H</title>
+  </programme>
+  <programme start="20230403053000 +0200" stop="20230403063000 +0200" channel="La 2 HD">
+    <title lang="es">La aventura del saber</title>
+  </programme>
+  <programme start="20230403063000 +0200" stop="20230403064200 +0200" channel="La 2 HD">
+    <title lang="es">That's English</title>
+  </programme>
+  <programme start="20230403064200 +0200" stop="20230403065500 +0200" channel="La 2 HD">
+    <title lang="es">That's English</title>
+  </programme>
+  <programme start="20230403065500 +0200" stop="20230403070000 +0200" channel="La 2 HD">
+    <title lang="es">La 2 express</title>
+  </programme>
+  <programme start="20230403070000 +0200" stop="20230403073000 +0200" channel="La 2 HD">
+    <title lang="es">Página 2: Xavier Aldekoa</title>
+  </programme>
+  <programme start="20230403073000 +0200" stop="20230403075500 +0200" channel="La 2 HD">
+    <title lang="es">Inglés Online</title>
+  </programme>
+  <programme start="20230403075500 +0200" stop="20230403084500 +0200" channel="La 2 HD">
+    <title lang="es">Lugares sagrados: El cañón del Chaco</title>
+  </programme>
+  <programme start="20230403084500 +0200" stop="20230403091500 +0200" channel="La 2 HD">
+    <title lang="es">El escarabajo verde: Agua por un tubo</title>
+  </programme>
+  <programme start="20230403091500 +0200" stop="20230403100500 +0200" channel="La 2 HD">
+    <title lang="es">Paraísos cercanos: Islas croatas</title>
+  </programme>
+  <programme start="20230403100500 +0200" stop="20230403110000 +0200" channel="La 2 HD">
+    <title lang="es">Historias de una necrópolis</title>
+  </programme>
+  <programme start="20230403110000 +0200" stop="20230403115500 +0200" channel="La 2 HD">
+    <title lang="es">Congo, el corazón de África</title>
+  </programme>
+  <programme start="20230403115500 +0200" stop="20230403124500 +0200" channel="La 2 HD">
+    <title lang="es">Luchadores salvajes: La lucha por el poder</title>
+  </programme>
+  <programme start="20230403124500 +0200" stop="20230403141000 +0200" channel="La 2 HD">
+    <title lang="es">El desafío de Pancho Villa</title>
+  </programme>
+  <programme start="20230403141000 +0200" stop="20230403144000 +0200" channel="La 2 HD">
+    <title lang="es">Huellas trashumantes: Trahumancia al Mediterráneo</title>
+  </programme>
+  <programme start="20230403144000 +0200" stop="20230403154500 +0200" channel="La 2 HD">
+    <title lang="es">Rick Stein: Secretos de Francia: Alsacia, Jura y Borgoña</title>
+  </programme>
+  <programme start="20230403154500 +0200" stop="20230403163000 +0200" channel="La 2 HD">
+    <title lang="es">Saber y ganar</title>
+  </programme>
+  <programme start="20230403163000 +0200" stop="20230403172000 +0200" channel="La 2 HD">
+    <title lang="es">Elefantes de cerca: Gigantes gentiles</title>
+  </programme>
+  <programme start="20230403172000 +0200" stop="20230403181000 +0200" channel="La 2 HD">
+    <title lang="es">El mundo perdido de África: El monte Suswa</title>
+  </programme>
+  <programme start="20230403181000 +0200" stop="20230403190500 +0200" channel="La 2 HD">
+    <title lang="es">Mundos perdidos y tesoros ocultos: El tesoro de Sutton Hoo</title>
+  </programme>
+  <programme start="20230403190500 +0200" stop="20230403195500 +0200" channel="La 2 HD">
+    <title lang="es">Magnífico Magreb: El norte de Túnez</title>
+  </programme>
+  <programme start="20230403195500 +0200" stop="20230403203500 +0200" channel="La 2 HD">
+    <title lang="es">Turismo rural en el mundo: Isla de Rügen. El escondite vikingo</title>
+  </programme>
+  <programme start="20230403203500 +0200" stop="20230403210500 +0200" channel="La 2 HD">
+    <title lang="es">Culturas 2</title>
+  </programme>
+  <programme start="20230403210500 +0200" stop="20230403220000 +0200" channel="La 2 HD">
+    <title lang="es">Lugares sagrados: Egipto</title>
+  </programme>
+  <programme start="20230403220000 +0200" stop="20230404000500 +0200" channel="La 2 HD">
+    <title lang="es">Sansón y Dalila</title>
+  </programme>
+  <programme start="20230404000500 +0200" stop="20230404005500 +0200" channel="La 2 HD">
+    <title lang="es">Los misterios de Jerusalén</title>
+  </programme>
+  <programme start="20230404005500 +0200" stop="20230404015000 +0200" channel="La 2 HD">
+    <title lang="es">El sueño de la vida eterna: Entre momias, tumbas y jeroglíficos</title>
+  </programme>
+  <programme start="20230404015000 +0200" stop="20230404022000 +0200" channel="La 2 HD">
+    <title lang="es">Conciertos de Radio-3: Juan Zelada</title>
+  </programme>
+  <programme start="20230404022000 +0200" stop="20230404031500 +0200" channel="La 2 HD">
+    <title lang="es">Serengueti: Cambio</title>
+  </programme>
+  <programme start="20230404031500 +0200" stop="20230404041000 +0200" channel="La 2 HD">
+    <title lang="es">Mae West, una rubia peligrosa</title>
+  </programme>
+  <programme start="20230404041000 +0200" stop="20230404050500 +0200" channel="La 2 HD">
+    <title lang="es">Rick Stein: Secretos de Francia: Provenza</title>
+  </programme>
+  <programme start="20230404050500 +0200" stop="20230404053000 +0200" channel="La 2 HD">
+    <title lang="es">La 2 express</title>
+  </programme>
+  <programme start="20230404053000 +0200" stop="20230404063000 +0200" channel="La 2 HD">
+    <title lang="es">La aventura del saber</title>
+  </programme>
+  <programme start="20230404063000 +0200" stop="20230404064500 +0200" channel="La 2 HD">
+    <title lang="es">That's English</title>
+  </programme>
+  <programme start="20230404064500 +0200" stop="20230404070000 +0200" channel="La 2 HD">
+    <title lang="es">That's English</title>
+  </programme>
+  <programme start="20230404070000 +0200" stop="20230404070500 +0200" channel="La 2 HD">
+    <title lang="es">La 2 express</title>
+  </programme>
+  <programme start="20230404070500 +0200" stop="20230404073000 +0200" channel="La 2 HD">
+    <title lang="es">Flash Moda</title>
+  </programme>
+  <programme start="20230404073000 +0200" stop="20230404080000 +0200" channel="La 2 HD">
+    <title lang="es">Inglés Online</title>
+  </programme>
+  <programme start="20230404080000 +0200" stop="20230404085000 +0200" channel="La 2 HD">
+    <title lang="es">Grandes diseños por el mundo</title>
+  </programme>
+  <programme start="20230404085000 +0200" stop="20230404093000 +0200" channel="La 2 HD">
+    <title lang="es">Agrosfera</title>
+  </programme>
+  <programme start="20230404093000 +0200" stop="20230404095500 +0200" channel="La 2 HD">
+    <title lang="es">Aquí hay trabajo</title>
+  </programme>
+  <programme start="20230404095500 +0200" stop="20230404105500 +0200" channel="La 2 HD">
+    <title lang="es">La aventura del saber</title>
+  </programme>
+  <programme start="20230404105500 +0200" stop="20230404112500 +0200" channel="La 2 HD">
+    <title lang="es">Diario de un nómada: Carreteras extremas</title>
+  </programme>
+  <programme start="20230404112500 +0200" stop="20230404122000 +0200" channel="La 2 HD">
+    <title lang="es">Serengueti</title>
+  </programme>
+  <programme start="20230404122000 +0200" stop="20230404131500 +0200" channel="La 2 HD">
+    <title lang="es">Supervivencia extrema</title>
+  </programme>
+  <programme start="20230404131500 +0200" stop="20230404145000 +0200" channel="La 2 HD">
+    <title lang="es">Cine</title>
+  </programme>
+  <programme start="20230404145000 +0200" stop="20230404151700 +0200" channel="La 2 HD">
+    <title lang="es">Expedición culinaria. Alimentos de la tierra</title>
+  </programme>
+  <programme start="20230404151700 +0200" stop="20230404154500 +0200" channel="La 2 HD">
+    <title lang="es">Expedición culinaria. Alimentos de la tierra</title>
+  </programme>
+  <programme start="20230404154500 +0200" stop="20230404163000 +0200" channel="La 2 HD">
+    <title lang="es">Saber y ganar</title>
+  </programme>
+  <programme start="20230404163000 +0200" stop="20230404171700 +0200" channel="La 2 HD">
+    <title lang="es">Supervivencia extrema</title>
+  </programme>
+  <programme start="20230404171700 +0200" stop="20230404180500 +0200" channel="La 2 HD">
+    <title lang="es">Luchadores salvajes</title>
+  </programme>
+  <programme start="20230404180500 +0200" stop="20230404185000 +0200" channel="La 2 HD">
+    <title lang="es">¿Cómo lo haríamos hoy?</title>
+  </programme>
+  <programme start="20230404185000 +0200" stop="20230404194000 +0200" channel="La 2 HD">
+    <title lang="es">Bangkok. La ciudad que nació de las aguas</title>
+  </programme>
+  <programme start="20230404194000 +0200" stop="20230404201500 +0200" channel="La 2 HD">
+    <title lang="es">Página 2</title>
+  </programme>
+  <programme start="20230404201500 +0200" stop="20230404204500 +0200" channel="La 2 HD">
+    <title lang="es">Culturas 2</title>
+  </programme>
+  <programme start="20230404204500 +0200" stop="20230404210500 +0200" channel="La 2 HD">
+    <title lang="es">Australia con Julia Bradbury</title>
+  </programme>
+  <programme start="20230404210500 +0200" stop="20230404220000 +0200" channel="La 2 HD">
+    <title lang="es">Grandes diseños por el mundo</title>
+  </programme>
+  <programme start="20230404220000 +0200" stop="20230404225500 +0200" channel="La 2 HD">
+    <title lang="es">Los gozos y las sombras</title>
+  </programme>
+  <programme start="20230404225500 +0200" stop="20230404235000 +0200" channel="La 2 HD">
+    <title lang="es">Los gozos y las sombras</title>
+  </programme>
+  <programme start="20230404235000 +0200" stop="20230405004500 +0200" channel="La 2 HD">
+    <title lang="es">Los gozos y las sombras</title>
+  </programme>
+  <programme start="20230405004500 +0200" stop="20230405014000 +0200" channel="La 2 HD">
+    <title lang="es">Los gozos y las sombras</title>
+  </programme>
+  <programme start="20230405014000 +0200" stop="20230405021500 +0200" channel="La 2 HD">
+    <title lang="es">Conciertos de Radio-3</title>
+  </programme>
+  <programme start="20230405021500 +0200" stop="20230405030000 +0200" channel="La 2 HD">
+    <title lang="es">¿Cómo lo haríamos hoy?</title>
+  </programme>
+  <programme start="20230405030000 +0200" stop="20230405035000 +0200" channel="La 2 HD">
+    <title lang="es">Grandes diseños por el mundo</title>
+  </programme>
+  <programme start="20230405035000 +0200" stop="20230405044500 +0200" channel="La 2 HD">
+    <title lang="es">Sudán. Entre el Nilo y el desierto</title>
+  </programme>
+  <programme start="20230405044500 +0200" stop="20230405053000 +0200" channel="La 2 HD">
+    <title lang="es">Supervivencia extrema</title>
+  </programme>
+  <programme start="20230405053000 +0200" stop="20230405063000 +0200" channel="La 2 HD">
+    <title lang="es">La aventura del saber</title>
+  </programme>
+  <programme start="20230403060000 +0200" stop="20230403061500 +0200" channel="ANTENA 3 FHD">
+    <title lang="es">Remescar cosmética al instante</title>
+  </programme>
+  <programme start="20230403061500 +0200" stop="20230403085500 +0200" channel="ANTENA 3 FHD">
+    <title lang="es">Las noticias de la mañana</title>
+  </programme>
+  <programme start="20230403085500 +0200" stop="20230403132000 +0200" channel="ANTENA 3 FHD">
+    <title lang="es">Espejo Público</title>
+  </programme>
+  <programme start="20230403132000 +0200" stop="20230403134500 +0200" channel="ANTENA 3 FHD">
+    <title lang="es">Cocina abierta de Karlos Arguiñano</title>
+  </programme>
+  <programme start="20230403134500 +0200" stop="20230403150000 +0200" channel="ANTENA 3 FHD">
+    <title lang="es">La ruleta de la suerte</title>
+  </programme>
+  <programme start="20230403150000 +0200" stop="20230403154500 +0200" channel="ANTENA 3 FHD">
+    <title lang="es">Antena 3 Noticias 1</title>
+  </programme>
+  <programme start="20230403154500 +0200" stop="20230403160000 +0200" channel="ANTENA 3 FHD">
+    <title lang="es">Deportes 1</title>
+  </programme>
+  <programme start="20230403160000 +0200" stop="20230403160200 +0200" channel="ANTENA 3 FHD">
+    <title lang="es">Cocina abierta de Karlos Arguiñano</title>
+  </programme>
+  <programme start="20230403160200 +0200" stop="20230403163000 +0200" channel="ANTENA 3 FHD">
+    <title lang="es">Tu tiempo con Roberto Brasero</title>
+  </programme>
+  <programme start="20230403163000 +0200" stop="20230403173000 +0200" channel="ANTENA 3 FHD">
+    <title lang="es">Amar es para siempre</title>
+  </programme>
+  <programme start="20230403173000 +0200" stop="20230403190000 +0200" channel="ANTENA 3 FHD">
+    <title lang="es">Pecado original</title>
+  </programme>
+  <programme start="20230403190000 +0200" stop="20230403200000 +0200" channel="ANTENA 3 FHD">
+    <title lang="es">Y ahora, Sonsoles</title>
+  </programme>
+  <programme start="20230403200000 +0200" stop="20230403210000 +0200" channel="ANTENA 3 FHD">
+    <title lang="es">Pasapalabra</title>
+  </programme>
+  <programme start="20230403210000 +0200" stop="20230403213000 +0200" channel="ANTENA 3 FHD">
+    <title lang="es">Antena 3 Noticias 2</title>
+  </programme>
+  <programme start="20230403213000 +0200" stop="20230403213500 +0200" channel="ANTENA 3 FHD">
+    <title lang="es">Deportes 2</title>
+  </programme>
+  <programme start="20230403213500 +0200" stop="20230403214500 +0200" channel="ANTENA 3 FHD">
+    <title lang="es">La previsión de las 9</title>
+  </programme>
+  <programme start="20230403214500 +0200" stop="20230403224500 +0200" channel="ANTENA 3 FHD">
+    <title lang="es">El hormiguero 3.0</title>
+  </programme>
+  <programme start="20230403224500 +0200" stop="20230404003000 +0200" channel="ANTENA 3 FHD">
+    <title lang="es">Hermanos</title>
+  </programme>
+  <programme start="20230404003000 +0200" stop="20230404023000 +0200" channel="ANTENA 3 FHD">
+    <title lang="es">Doctor Alí</title>
+  </programme>
+  <programme start="20230404023000 +0200" stop="20230404031500 +0200" channel="ANTENA 3 FHD">
+    <title lang="es">Live casino</title>
+  </programme>
+  <programme start="20230404031500 +0200" stop="20230404041500 +0200" channel="ANTENA 3 FHD">
+    <title lang="es">Galería del coleccionista</title>
+  </programme>
+  <programme start="20230404041500 +0200" stop="20230404060000 +0200" channel="ANTENA 3 FHD">
+    <title lang="es">Minutos musicales</title>
+  </programme>
+  <programme start="20230404060000 +0200" stop="20230404061500 +0200" channel="ANTENA 3 FHD">
+    <title lang="es">Remescar cosmética al instante</title>
+  </programme>
+  <programme start="20230404061500 +0200" stop="20230404085500 +0200" channel="ANTENA 3 FHD">
+    <title lang="es">Las noticias de la mañana</title>
+  </programme>
+  <programme start="20230404085500 +0200" stop="20230404132000 +0200" channel="ANTENA 3 FHD">
+    <title lang="es">Espejo Público</title>
+  </programme>
+  <programme start="20230404132000 +0200" stop="20230404134500 +0200" channel="ANTENA 3 FHD">
+    <title lang="es">Cocina abierta de Karlos Arguiñano</title>
+  </programme>
+  <programme start="20230404134500 +0200" stop="20230404150000 +0200" channel="ANTENA 3 FHD">
+    <title lang="es">La ruleta de la suerte</title>
+  </programme>
+  <programme start="20230404150000 +0200" stop="20230404154500 +0200" channel="ANTENA 3 FHD">
+    <title lang="es">Antena 3 Noticias 1</title>
+  </programme>
+  <programme start="20230404154500 +0200" stop="20230404160000 +0200" channel="ANTENA 3 FHD">
+    <title lang="es">Deportes 1</title>
+  </programme>
+  <programme start="20230404160000 +0200" stop="20230404160200 +0200" channel="ANTENA 3 FHD">
+    <title lang="es">Cocina abierta de Karlos Arguiñano</title>
+  </programme>
+  <programme start="20230404160200 +0200" stop="20230404163000 +0200" channel="ANTENA 3 FHD">
+    <title lang="es">Tu tiempo con Roberto Brasero</title>
+  </programme>
+  <programme start="20230404163000 +0200" stop="20230404173000 +0200" channel="ANTENA 3 FHD">
+    <title lang="es">Amar es para siempre</title>
+  </programme>
+  <programme start="20230404173000 +0200" stop="20230404190000 +0200" channel="ANTENA 3 FHD">
+    <title lang="es">Pecado original</title>
+  </programme>
+  <programme start="20230404190000 +0200" stop="20230404200000 +0200" channel="ANTENA 3 FHD">
+    <title lang="es">Y ahora, Sonsoles</title>
+  </programme>
+  <programme start="20230404200000 +0200" stop="20230404210000 +0200" channel="ANTENA 3 FHD">
+    <title lang="es">Pasapalabra</title>
+  </programme>
+  <programme start="20230404210000 +0200" stop="20230404213000 +0200" channel="ANTENA 3 FHD">
+    <title lang="es">Antena 3 Noticias 2</title>
+  </programme>
+  <programme start="20230404213000 +0200" stop="20230404213500 +0200" channel="ANTENA 3 FHD">
+    <title lang="es">Deportes 2</title>
+  </programme>
+  <programme start="20230404213500 +0200" stop="20230404214500 +0200" channel="ANTENA 3 FHD">
+    <title lang="es">La previsión de las 9</title>
+  </programme>
+  <programme start="20230404214500 +0200" stop="20230404224500 +0200" channel="ANTENA 3 FHD">
+    <title lang="es">El hormiguero 3.0</title>
+  </programme>
+  <programme start="20230404224500 +0200" stop="20230405003000 +0200" channel="ANTENA 3 FHD">
+    <title lang="es">Hermanos</title>
+  </programme>
+  <programme start="20230405003000 +0200" stop="20230405023000 +0200" channel="ANTENA 3 FHD">
+    <title lang="es">Doctor Alí</title>
+  </programme>
+  <programme start="20230405023000 +0200" stop="20230405031500 +0200" channel="ANTENA 3 FHD">
+    <title lang="es">Live casino</title>
+  </programme>
+  <programme start="20230405031500 +0200" stop="20230405041500 +0200" channel="ANTENA 3 FHD">
+    <title lang="es">Galería del coleccionista</title>
+  </programme>
+  <programme start="20230405041500 +0200" stop="20230405060000 +0200" channel="ANTENA 3 FHD">
+    <title lang="es">Minutos musicales</title>
   </programme>
 </tv>
